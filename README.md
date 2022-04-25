@@ -10,4 +10,4 @@ The repository includes five optimization plans of ToxlBTL model：
 The ipynb file content are divided by sections, for strucutre, it's shown in "Neural Network Class" section.
 
 ### Dataset
-Required protein and peptide datasets are in the "Dataset" folder
+Required protein and peptide datasets are in the "dataset" folder
